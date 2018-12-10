@@ -48,8 +48,6 @@ player_mass = 1.0
 player_damping = 0.0
 
 
-
-
 #positions and sizes
 offset_y = 1
 block_fell_if_below = offset_y - 1
